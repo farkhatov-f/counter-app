@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="_0000">0000</string>
+    <string name="count">count</string>
+</resources>
